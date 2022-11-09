@@ -1,0 +1,42 @@
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                                                                                      +
++               - Compañía de Producción de Software LLTD CyberTech:                   +
++                                                                                      +
++   01   Luis Alberto Albalat Junco ------------------------------------------- Jefe   +
++                                                                                      + 
++   02   Lázaro Ariel Macías González                                                  +
++                                                                                      +
++   03   Darián Apecheche                                                              +
++                                                                                      +
++   04   Thalía Palomino Montalván                                                     +
++                                                                                      +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                                                                                      +
++               - Interfaces Gráficas:                                                 +
++                                                                                      +
++   01   Login: Lázaro                                                                 +
++                                                                                      +
++   02   Menú de Gerente: Lázaro                                                       +
++                                                                                      +
++   03   Menú de Administrador: Darián                                                 +
++                                                                                      +
++   04   Menú de Cliente: Thalía                                                       +
++                                                                                      +
++   05   Gestión de Usuario: Luis                                                      +
++                                                                                      + 
++   06   Gestión de Productos: Darián                                                  +
++                                                                                      +
++   07   Gestión de Cliente: Thalía                                                    +
++                                                                                      +
++   08   Gestión de Stock de Producto: Darián                                          +
++                                                                                      +
++   09   Gestión de Informe: Luis                                                      +
++                                                                                      +
++   10   Gestión de Proveedor: Luis                                                    +
++                                                                                      +
++   11   Gestión de Invitado: Thalía                                                   +
++                                                                                      +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
